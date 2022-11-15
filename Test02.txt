@@ -1,3 +1,5 @@
 TESt2
 
 This is Child 02 test 
+
+New  feature in the master
